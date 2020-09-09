@@ -2,11 +2,14 @@
 
 **Welcome to my GITHUB profile!** :sunglasses:
 
-**Sou um grande apaixonado por resolver problemas utilizando a programação!**
+**Sou apaixonado por resolver problemas utilizando a programação e assim contribuir no desenvolvimento de soluções para as pessoas!**
 
- :rocket:  &nbsp; Estou iniciando meus estudos em Desenvolvimento de Sistemas com foco em Front-End (HTML5, CSS3 e JAVASCRIPT)
- <br/> :computer: &nbsp; Sou iniciante, mas posso te ajudar Lógica de Programação e o básico de HTML e CSS 
- <br/> 😄 &nbsp; Estou começando minha caminhada na áera de desenvolvimento web, então eu adorarei receber qualquer ajuda!
+**"O mais sábio é aquele que sabe que não sabe", já dizia Platão, por isso sei que a vida sempre tem algo a ensinar!**
+
+
+ :rocket:  &nbsp; Estou iniciando meus estudos em Desenvolvimento de Sistemas com foco em Back-End (JAVA e JAVASCRIPT)
+ <br/> 😄 &nbsp; Estou começando minha caminhada na áera de desenvolvimento web e estou aberto para receber suporte de outros(as) devs, muita vontade de aprender!!!
+ <br/> :computer: &nbsp; Sou iniciante, mas posso te ajudar com Lógica de Programação e o básico em JAVA e JAVASCRIPT   
  <br/> :purple_heart:  &nbsp; Sobre mim: Curto tecnologias, games, animes, Netflix e Dança de Salão
 <br/> 💬 &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ErasmoBezerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erasmo-bezerra-6751121b1/)](https://www.linkedin.com/in/erasmo-bezerra-6751121b1/) 
 | 
