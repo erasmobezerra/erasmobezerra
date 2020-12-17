@@ -7,7 +7,7 @@
 **"O mais sábio é aquele que sabe que não sabe", já dizia Platão, por isso sei que a vida sempre tem algo a ensinar!**
 
 
- :rocket:  &nbsp; Estou iniciando meus estudos em Desenvolvimento de Sistemas com foco em Back-End (JAVA e JAVASCRIPT)
+ :rocket:  &nbsp; Meu objetivo é trabalhar como Desenvolvedor Java Web Full Stack
  <br/><br/> 😄 &nbsp; Estou aberto a receber suporte da comunidade! Muita vontade de aprender!
  <br/><br/> :computer: &nbsp; Sou iniciante, mas posso te ajudar com Lógica de Programação e o básico em JAVA e JAVASCRIPT    
  <br/> :purple_heart:  &nbsp; Sobre mim: Curto tecnologias, games, animes, Netflix e Dança de Salão
