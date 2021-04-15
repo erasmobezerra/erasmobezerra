@@ -4,8 +4,6 @@
 
 **Sou apaixonado por resolver problemas utilizando a programação e assim contribuir no desenvolvimento de soluções para as pessoas!**
 
-**"O mais sábio é aquele que sabe que não sabe", já dizia Platão, por isso sei que a vida sempre tem algo a ensinar!**
-
 
  :rocket:  &nbsp; Meu objetivo é trabalhar como Desenvolvedor Java Web Full Stack
  <br/><br/> 😄 &nbsp; Estou aberto a receber suporte da comunidade! Muita vontade de aprender!
