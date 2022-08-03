@@ -33,4 +33,4 @@ Contatos:
 [![Gmail Badge](https://img.shields.io/badge/-erasmo.ads.tech@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erasmo.ads.tech@gmail.com)](mailto:erasmo.ads.tech@gmail.com)
 <div>     
 
-Acesse meu currículo  <a href="https://github.com/erasmobezerra/erasmobezerra/blob/master/curriculo_javaweb.pdf"> clicando aqui </a>.
+Acesse meu currículo  <a href="https://github.com/erasmobezerra/erasmobezerra/blob/master/Curriculo_javaweb.pdf"> clicando aqui </a>.
