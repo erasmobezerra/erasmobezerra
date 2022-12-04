@@ -9,7 +9,7 @@
 
 <div style="display: inline_block"><br>
 
-  <img align="center" alt="Erasmo-java" height="30" width="40" src="https://image.flaticon.com/icons/png/512/226/226777.png](https://cdn-icons-png.flaticon.com/512/226/226777.png"> 
+   <img align="center" alt="Erasmo-spring" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
   <img align="center" alt="Erasmo-spring" height="30" width="30" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png">
   <img align="center" alt="Erasmo-docker" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
   <img align="center" alt="Erasmo-Js" height="30" width="30" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102017/logo_0.png?17TK91b1B6OvV2MFrCLfukw1c8oEaNr6&itok=vsanFiUj">
