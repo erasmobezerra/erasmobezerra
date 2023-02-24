@@ -1,5 +1,5 @@
 ## Oiii! Me chamo Erasmo  👋
-**Boas-vindas ao meu perfil do GITHUB !** :sunglasses:
+**Boas-vindas ao meu perfil do GITHUB! Sinta-se à vontade para navegar por aqui interagir comigo!** :sunglasses:
 
 <div>
   <a href="https://github.com/erasmobezerra">
