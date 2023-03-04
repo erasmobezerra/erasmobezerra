@@ -1,5 +1,11 @@
 ## Oiii! Me chamo Erasmo  👋
+
 **Boas-vindas ao meu perfil do GITHUB! Sinta-se à vontade para navegar por aqui interagir comigo!** :sunglasses:
+
+- 🔭 Cursando Análise e Desenvolvimento de Sistemas
+- 😄 Pronouns: Ele/Dele
+- Acesse meu currículo  <a href="https://github.com/erasmobezerra/erasmobezerra/blob/master/curriculo_javaweb.pdf">  aqui </a>.
+<br>
 
 <div>
   <a href="https://github.com/erasmobezerra">
@@ -7,9 +13,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erasmobezerra&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
+  
+## Tecnologias:
+  
 <div style="display: inline_block"><br>
-
-   <img align="center" alt="Erasmo-spring" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
+  <img align="center" alt="Erasmo-spring" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
   <img align="center" alt="Erasmo-spring" height="30" width="30" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png">
   <img align="center" alt="Erasmo-docker" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
   <img align="center" alt="Erasmo-Js" height="30" width="30" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102017/logo_0.png?17TK91b1B6OvV2MFrCLfukw1c8oEaNr6&itok=vsanFiUj">
@@ -25,12 +33,12 @@
   
 </div>
 
-##
+<br>
   
-Contatos: 
+## Contatos: 
 
-[![Linkedin Badge](https://img.shields.io/badge/-ErasmoBezerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erasmo-ribeiro-bezerra-6751121b1/)](https://www.linkedin.com/in/erasmo-ribeiro-bezerra-6751121b1/) 
-[![Gmail Badge](https://img.shields.io/badge/-erasmo.ads.tech@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erasmo.ads.tech@gmail.com)](mailto:erasmo.ads.tech@gmail.com)
-<div>     
-
-Acesse meu currículo  <a href="https://github.com/erasmobezerra/erasmobezerra/blob/master/curriculo_javaweb.pdf"> clicando aqui </a>.
+<div> 
+<a href = "mailto:hyerasmo.ads.tech@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://[www.linkedin.com/in/jo%C3%A3o-victor-a8969918a/](https://www.linkedin.com/in/erasmo-bezerra-6751121b1/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://api.whatsapp.com/send?phone=5527997512017&text=" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  
+</div>
