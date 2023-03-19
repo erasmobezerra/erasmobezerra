@@ -1,6 +1,6 @@
 ## Oiii! Me chamo Erasmo  👋
 
-**Boas-vindas ao meu perfil do GITHUB!** 
+**Boas-vindas ao meu perfil do GITHUB!** <br>
 **Sinta-se à vontade para navegar por aqui interagir comigo!**
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" alt="Computador iuriCode">
