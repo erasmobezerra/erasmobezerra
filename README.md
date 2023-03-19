@@ -1,11 +1,19 @@
 ## Oiii! Me chamo Erasmo  👋
 
-**Boas-vindas ao meu perfil do GITHUB! Sinta-se à vontade para navegar por aqui interagir comigo!** :sunglasses:
+**Boas-vindas ao meu perfil do GITHUB!** 
+**Sinta-se à vontade para navegar por aqui interagir comigo!**
 
-- 🔭 Cursando Análise e Desenvolvimento de Sistemas
-- 😄 Pronouns: Ele/Dele
-- Acesse meu currículo  <a href="https://github.com/erasmobezerra/erasmobezerra/blob/master/curriculo_javaweb.pdf">  aqui </a>.
+-  😄 Pronouns: Ele/Dele
+
+-  💻  Cursando Análise e Desenvolvimento de Sistemas (último período)
+
+- **Meu Objetivo**: Graduado em Ciências Sociais, estou em migração de carreira para Desenvolvedor de Softwares Java WEB. Desejo aprimorar minhas habilidades pessoais e profissionais, contribuindo na construção de soluções que agregam valores aos cliente, levando em conta a diversidade, inclusão, sustentabilidade, eficiência!  
+
+- 📃 Acesse meu currículo  <a href="https://github.com/erasmobezerra/erasmobezerra/blob/master/curriculo_javaweb.pdf">  aqui </a>.
 <br>
+
+
+## Status e Linguagens:  
 
 <div>
   <a href="https://github.com/erasmobezerra">
