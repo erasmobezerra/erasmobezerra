@@ -3,6 +3,9 @@
 **Boas-vindas ao meu perfil do GITHUB!** 
 **Sinta-se à vontade para navegar por aqui interagir comigo!**
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" alt="Computador iuriCode">
+
+
 -  😄 Pronouns: Ele/Dele
 
 -  💻  Cursando Análise e Desenvolvimento de Sistemas (último período)
