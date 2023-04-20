@@ -1,10 +1,14 @@
-## Oiii! Me chamo Erasmo  👋
 
-**Boas-vindas ao meu perfil do GITHUB!** <br>
-**Sinta-se à vontade para navegar por aqui interagir comigo!**
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" alt="Computador iuriCode">
+<div align="center" >
+  <h3> Oiii! Me chamo Erasmo👋 </h3>
+  <h3> Boas-vindas ao meu perfil do GITHUB! </h3> 
+  <h3> Sinta-se à vontade para navegar por aqui interagir comigo! </h3>
+</div>
 
+<div align="center" >
+    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px"               width="300px" alt="Computador iuriCode" >
+</div>
 
 -  😄 Pronouns: Ele/Dele
 
