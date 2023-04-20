@@ -1,7 +1,7 @@
 
 
 <div align="center" >
-  <h3> Oiii! Me chamo Erasmo👋 </h3>
+  <h1> Oiii! Me chamo Erasmo👋 </h1>
   <h3> Boas-vindas ao meu perfil do GITHUB! </h3> 
   <h3> Sinta-se à vontade para navegar por aqui interagir comigo! </h3>
 </div>
@@ -14,10 +14,10 @@
 
 -  💻  Cursando Análise e Desenvolvimento de Sistemas (último período)
 
-- **Meu Objetivo**: Graduado em Ciências Sociais, estou em migração de carreira para Desenvolvedor de Softwares Java WEB. Desejo aprimorar minhas habilidades pessoais e profissionais, contribuindo na construção de soluções que agregam valores aos cliente, levando em conta a diversidade, inclusão, sustentabilidade, eficiência!  
+-  🎯  Graduado em Ciências Sociais, estou em migração de carreira para Desenvolvedor de Softwares Java WEB. Desejo aprimorar minhas habilidades pessoais e profissionais, contribuindo na construção de soluções que agregam valores aos cliente, levando em conta a diversidade, inclusão, sustentabilidade, eficiência!  
 
 - 📃 Acesse meu currículo  <a href="https://github.com/erasmobezerra/erasmobezerra/blob/master/curriculo_javaweb.pdf">  aqui </a>.
-
+<br>
 
 ## Status e Linguagens:  
 
