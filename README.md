@@ -16,7 +16,16 @@
 
 -  🎯  Graduado em Ciências Sociais, estou em migração de carreira para Desenvolvedor de Softwares Java WEB. Desejo aprimorar minhas habilidades pessoais e profissionais, contribuindo na construção de soluções que agregam valores aos cliente, levando em conta a diversidade, inclusão, sustentabilidade, eficiência!  
 
+- Para além da faculdade, venho buscando aprimoração por meio de cursos online, bootcamps, projetos, dentre eles, destaco: 
+
+  - Projeto voluntário e open source Whale. Neste atuo como desenvolvedor Java contribuindo na construção de novas funcionalidades, ajudando a equipe na tomada de decisões, trabalhando na eficiência do site do projeto. Stack utilizada: Java, Spring, Maven, Github, Thymeleaf.
+  
+  - Curso Java - Programação Orientada a Objetos + Projetos do Prof. Nelio Alves. Me aperfeiçoando em Java, desde os fundamentos até construção de aplicativos com ANgular no frontend, Spring e Banco de Dados no backend. 
+   
+  - Bootcamps - Atualmente inscrito em dois: o programa Start By da Capgemini, trilha Java que também aborda no frontend o Angular. O segundo programa é o do Santander Bootcamp 2023 - Mobile Android com Kotlin. O objetivo aqui é adquiri conhecimento também na construção de aplicativos para android.
+ 
 - 📃 Acesse meu currículo  <a href="https://github.com/erasmobezerra/erasmobezerra/blob/master/curriculo_javaweb.pdf">  aqui </a>.
+  
 <br>
 
 ## Status e Linguagens:  
