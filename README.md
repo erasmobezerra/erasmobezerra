@@ -10,36 +10,15 @@
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px"               width="300px" alt="Computador iuriCode" >
 </div>
 
-😄 Pronouns: Ele/Dele
-<br><br>
-
-🚀 Sou desenvolvedor de software Java no Projeto My Big Whale e também atuo como suporte técnico ao usuário na Teralab Serviços de Dados LTDA. Amo o que faço e estou aberto a novos desafios. Desejo aprimorar minhas habilidades pessoais e profissionais, contribuindo na construção de soluções que agregam valores aos cliente, levando em conta a diversidade, inclusão, sustentabilidade, eficiência!  
+## 😄 Pronouns: Ele/Dele
 <br>
 
-🧑🏽‍💻  Tecnologias: 
-  * Linguagens: Java e Javascript
-  * Banco de dados: MySQL e PostgreSQL
-  * Testes: JUnit e Spring MockMvc
-  * Versionamento e controle de versão: GIt e Github
-  * Metodologia Agil: Scrum, Kanban
+## 🚀 O que faço: 
+Sou desenvolvedor de software Java no Projeto My Big Whale e também atuo como suporte técnico ao usuário na Teralab Serviços de Dados LTDA. Amo o que faço e estou aberto a novos desafios. Desejo aprimorar minhas habilidades pessoais e profissionais, contribuindo na construção de soluções que agregam valores aos cliente, levando em conta a diversidade, inclusão, sustentabilidade, eficiência!  
 <br>
 
-💻  Cursando Análise e Desenvolvimento de Sistemas (último período). Sou também graduado em Ciências Sociais. 
-<br><br>
+📃 Acesse meu currículo  <a href="https://github.com/erasmobezerra/erasmobezerra/blob/master/curriculo_javaweb.pdf">  aqui </a>. <br><br>
 
-🤓 Meus Hobbies: 
-  - 🌍 Viajar
-  - 🎸 Tocar violão
-  - 📺 Animes e Séries
-  - 💡 Projetos voluntários, criando soluções inteligentes e criativas!
-<br>
-
-📨 Se você está buscando um Desenvolvedor Web apaixonado por tecnologia, vamos nos conectar! Estou aberto a oportunidades, colaborações e troca de ideias enriquecedoras.
-<br><br>
-
-📃 Acesse meu currículo  <a href="https://github.com/erasmobezerra/erasmobezerra/blob/master/curriculo_javaweb.pdf">  aqui </a>.
-  
-<br>
 
 ## Status e Linguagens:  
 
@@ -49,7 +28,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erasmobezerra&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-  
 ## Tecnologias:
   
 <div style="display: inline_block"><br>
@@ -60,12 +38,29 @@
   <img align="center" alt="postgres" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png">
   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="JUnit" height="30" width="30" src="https://w7.pngwing.com/pngs/928/911/png-transparent-junit-software-testing-spring-framework-unit-testing-java-others-miscellaneous-text-trademark-thumbnail.png">  
- 
+  <img align="center" alt="Git" height="30" width="30" src="https://cdn-icons-png.flaticon.com/128/11518/11518876.png">  
+  <img align="center" alt="Github" height="30" width="30" src="https://cdn-icons-png.flaticon.com/128/733/733553.png">  
+  <img align="center" alt="Metodolias Ágeis" height="30" width="30" src="https://cdn-icons-png.flaticon.com/128/5792/5792530.png">   
 </div>
+<br>
 
+
+## 💻  Fornação: 
+Cursando Análise e Desenvolvimento de Sistemas (último período). Sou também graduado em Ciências Sociais. 
+<br><br>
+
+## 🤓 Meus Hobbies: 
+  - 🌍 Viajar
+  - 🎸 Tocar violão
+  - 📺 Animes e Séries
+  - 💡 Projetos voluntários, criando soluções inteligentes e criativas!
 <br>
   
+
+
 ## Contatos: 
+  📨 Se você está buscando um Desenvolvedor Web apaixonado por tecnologia, vamos nos conectar! Estou aberto a oportunidades, colaborações e troca de ideias enriquecedoras.
+<br><br>
 
 <div> 
 <a href = "mailto:hyerasmo.ads.tech@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
