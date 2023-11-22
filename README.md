@@ -10,21 +10,34 @@
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px"               width="300px" alt="Computador iuriCode" >
 </div>
 
--  😄 Pronouns: Ele/Dele
+😄 Pronouns: Ele/Dele
+<br><br>
 
--  💻  Cursando Análise e Desenvolvimento de Sistemas (último período)
+🚀 Sou desenvolvedor de software Java no Projeto My Big Whale e também atuo como suporte técnico ao usuário na Teralab Serviços de Dados LTDA. Amo o que faço e estou aberto a novos desafios. Desejo aprimorar minhas habilidades pessoais e profissionais, contribuindo na construção de soluções que agregam valores aos cliente, levando em conta a diversidade, inclusão, sustentabilidade, eficiência!  
+<br>
 
--  🎯  Graduado em Ciências Sociais, estou em migração de carreira para Desenvolvedor de Softwares Java WEB. Desejo aprimorar minhas habilidades pessoais e profissionais, contribuindo na construção de soluções que agregam valores aos cliente, levando em conta a diversidade, inclusão, sustentabilidade, eficiência!  
+🧑🏽‍💻  Tecnologias: 
+  * Linguagens: Java e Javascript
+  * Banco de dados: MySQL e PostgreSQL
+  * Testes: JUnit e Spring MockMvc
+  * Versionamento e controle de versão: GIt e Github
+  * Metodologia Agil: Scrum, Kanban
+<br>
 
--  📚 Experiências: Para além da faculdade, venho aprimorando minhas soft e hard skills por meio de cursos online, bootcamps, projetos, dentre eles, destaco: 
+💻  Cursando Análise e Desenvolvimento de Sistemas (último período). Sou também graduado em Ciências Sociais. 
+<br><br>
 
-    - Projeto voluntário e open source Whale. Neste atuo como desenvolvedor Java contribuindo na construção de novas funcionalidades, ajudando a equipe na tomada de decisões, trabalhando na eficiência do site do projeto. Stack utilizada: Java, Spring, Maven, Github, Thymeleaf.
-    
-    - Curso Java - Programação Orientada a Objetos + Projetos do Prof. Nelio Alves. Me aperfeiçoando em Java, desde os fundamentos até construção de aplicativos com ANgular no frontend, Spring e Banco de Dados no backend. 
-     
-    - Bootcamps - Atualmente inscrito em dois: o programa Start By da Capgemini, trilha Java que também aborda no frontend o Angular. O segundo programa é o do Santander Bootcamp 2023 - Mobile Android com Kotlin. O objetivo aqui é adquiri conhecimento também na construção de aplicativos para android.
- 
-- 📃 Acesse meu currículo  <a href="https://github.com/erasmobezerra/erasmobezerra/blob/master/curriculo_javaweb.pdf">  aqui </a>.
+🤓 Meus Hobbies: 
+  - 🌍 Viajar
+  - 🎸 Tocar violão
+  - 📺 Animes e Séries
+  - 💡 Projetos voluntários, criando soluções inteligentes e criativas!
+<br>
+
+📨 Se você está buscando um Desenvolvedor Web apaixonado por tecnologia, vamos nos conectar! Estou aberto a oportunidades, colaborações e troca de ideias enriquecedoras.
+<br><br>
+
+📃 Acesse meu currículo  <a href="https://github.com/erasmobezerra/erasmobezerra/blob/master/curriculo_javaweb.pdf">  aqui </a>.
   
 <br>
 
@@ -45,9 +58,9 @@
   <img align="center" alt="docker" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919853.png"> 
   <img align="center" alt="mysql" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919836.png">
   <img align="center" alt="postgres" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png">
-  <img align="center" alt="Erasmo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Erasmo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img align="center" alt="Erasmo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+  <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+  <img align="center" alt="JUnit" height="30" width="30" src="https://w7.pngwing.com/pngs/928/911/png-transparent-junit-software-testing-spring-framework-unit-testing-java-others-miscellaneous-text-trademark-thumbnail.png">  
+ 
 </div>
 
 <br>
