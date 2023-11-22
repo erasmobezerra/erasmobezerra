@@ -10,8 +10,6 @@
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px"               width="300px" alt="Computador iuriCode" >
 </div>
 
-## 😄 Pronouns: Ele/Dele
-<br>
 
 ## 🚀 O que faço: 
 Sou desenvolvedor de software Java no Projeto My Big Whale e também atuo como suporte técnico ao usuário na Teralab Serviços de Dados LTDA. Amo o que faço e estou aberto a novos desafios. Desejo aprimorar minhas habilidades pessoais e profissionais, contribuindo na construção de soluções que agregam valores aos cliente, levando em conta a diversidade, inclusão, sustentabilidade, eficiência!  
