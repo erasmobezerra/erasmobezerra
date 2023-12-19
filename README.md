@@ -7,8 +7,8 @@ Meu nome é Erasmo Bezerra. Sou desenvolvedor de software Java no Projeto My Big
 
 <br><br>
 
-## Formação 
-Tenho duas graduação: Bacharelado em Ciências Sociais e recentemente, Tecnólogo em Análise e Desenvolvimento de Software. Embora sejam duas áreas aparentemente muito distantes, a primeira formação agrega muito na segunda. Minha educação em Ciências Sociais contribuio no desenvolvimento da minha comunicação, análise crítica e importãncia de se compreender o contexto social, cultural e político da sociedade e do indivíduo para o desenvolvimento de projetos e soluções aos problemas enfrentados pelos mesmos. Essa combinação única de conhecimentos me capacita a contribuir de maneira significativa no desenvolvimento de soluções tecnológicas centradas no usuário, éticas e culturalmente sensíveis, destacando-me como um profissional adaptável e apto a enfrentar desafios complexos no campo da tecnologia da informação.
+## 💻  Fornação:
+Tenho duas graduação: Bacharelado em Ciências Sociais e recentemente, Tecnólogo em Análise e Desenvolvimento de Software. Minha educação em Ciências Sociais contribuio no desenvolvimento da minha comunicação, análise crítica e importãncia de se compreender o contexto social, cultural e político da sociedade e do indivíduo para o desenvolvimento de projetos e soluções aos problemas enfrentados pelos mesmos. Essa combinação única de conhecimentos me capacita a contribuir de maneira significativa no desenvolvimento de soluções de software centradas no usuário, éticas e culturalmente sensíveis, destacando-me como um profissional adaptável e apto a enfrentar desafios complexos no campo da tecnologia da informação.
 
 <br><br>
 
@@ -42,9 +42,6 @@ Minha experiência aqui (WHALE)
 <br>
 
 
-## 💻  Fornação: 
-Cursando Análise e Desenvolvimento de Sistemas (último período). Sou também graduado em Ciências Sociais. 
-<br><br>
 
 ## 🤓 Meus Hobbies: 
   - 🌍 Viajar
