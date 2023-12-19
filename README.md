@@ -1,22 +1,16 @@
 
 
-<div align="center" >
-  <h1> Oiii! Me chamo Erasmo👋 </h1>
-  <h3> Boas-vindas ao meu perfil do GITHUB! </h3> 
-  <h3> Sinta-se à vontade para navegar por aqui interagir comigo! </h3>
-</div>
+# Olá, tudo bem!!? 👋
 
-<div align="center" >
-    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px"               width="300px" alt="Computador iuriCode" >
-</div>
+## 🚀 Quem sou:
+Meu nome é Erasmo Bezerra. Sou desenvolvedor de software Java no Projeto My Big Whale e também atuo como suporte técnico ao usuário na Teralab Serviços de Dados LTDA. Desejo continuar aprimorando minhas habilidades pessoais e profissionais, contribuindo na construção de soluções que agregam valores ao cliente.  Sou uma pessoa tímida mas que gosta muito pessoas, animais, meio ambiente e política. Soluções que são pensados levando em conta a diversidade cultural, inclusão social, sustentabilidade e inovação são as que mais me atraem! 
 
+<br><br>
 
-## 🚀 O que faço: 
-Sou desenvolvedor de software Java no Projeto My Big Whale e também atuo como suporte técnico ao usuário na Teralab Serviços de Dados LTDA. Amo o que faço e estou aberto a novos desafios. Desejo aprimorar minhas habilidades pessoais e profissionais, contribuindo na construção de soluções que agregam valores aos cliente, levando em conta a diversidade, inclusão, sustentabilidade, eficiência!  
-<br>
+## Formação e Experiência:  
+Tenho duas graduação: Bacharelado em Ciências Sociais e recentemente, Tecnólogo em Análise e Desenvolvimento de Software. Embora sejam duas áreas aparentemente muito distantes, a primeira formação agrega muito na segunda. Minha educação em Ciências Sociais contribuio no desenvolvimento da minha comunicação, análise crítica e importãncia de se compreender o contexto social, cultural e político da sociedade e do indivíduo para o desenvolvimento de projetos e soluções aos problemas enfrentados pelos mesmos. Essa combinação única de conhecimentos me capacita a contribuir de maneira significativa no desenvolvimento de soluções tecnológicas centradas no usuário, éticas e culturalmente sensíveis, destacando-me como um profissional adaptável e apto a enfrentar desafios complexos no campo da tecnologia da informação.
 
-📃 Acesse meu currículo  <a href="https://github.com/erasmobezerra/erasmobezerra/blob/master/curriculo_javaweb.pdf">  aqui </a>. <br><br>
-
+<br><br>
 
 ## Status e Linguagens:  
 
