@@ -13,6 +13,7 @@ Tenho duas graduação: Bacharelado em Ciências Sociais e recentemente, Tecnól
 <br><br>
 
 ## Experiência:  
+Minha experiência aqui (WHALE)
 
 <br><br>
 
