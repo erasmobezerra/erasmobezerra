@@ -20,30 +20,34 @@ Minha experiência aqui (WHALE)
 ## Status e Linguagens:  
 
 <div align="center">
-  <a href="https://github.com/Amandapvln">
+  <a href="https://github.com/erasmobezerra">
    
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amandapvln&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amandapvln&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amandapvln&theme=nord_dark) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=erasmobezerra&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=erasmobezerra&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=erasmobezerra&theme=nord_dark) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amandapvln&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Amandapvln&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erasmobezerra&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Amandapvln&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
 </div>
 
 ## Tecnologias:
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="java" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
-  <img align="center" alt="spring" height="30" width="30" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png">
-  <img align="center" alt="docker" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919853.png"> 
-  <img align="center" alt="mysql" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919836.png">
-  <img align="center" alt="postgres" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png">
-  <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-  <img align="center" alt="JUnit" height="30" width="30" src="https://w7.pngwing.com/pngs/928/911/png-transparent-junit-software-testing-spring-framework-unit-testing-java-others-miscellaneous-text-trademark-thumbnail.png">  
-  <img align="center" alt="Git" height="30" width="30" src="https://cdn-icons-png.flaticon.com/128/11518/11518876.png">  
-  <img align="center" alt="Github" height="30" width="30" src="https://cdn-icons-png.flaticon.com/128/733/733553.png">  
-  <img align="center" alt="Metodolias Ágeis" height="30" width="30" src="https://cdn-icons-png.flaticon.com/128/5792/5792530.png">   
-</div>
-<br>
+<div>   
+   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+   <img alt="SpringBoot" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />       
+   <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+   <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">    
+   <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+   <img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
+   <img alt="Trello"  src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />        
+   <img alt="Prometheus"! src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" />
+   <img alt="Granafa"  src= "https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img alt="Docker"  src= "https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" />
+  <img alt="Docker"  src= "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+ </div>
+
+<br><br>
 
 
 
