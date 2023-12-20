@@ -3,21 +3,26 @@
 # Olá, tudo bem!!? 👋
 
 ## 🚀 Quem sou:
-Meu nome é Erasmo Bezerra. Sou desenvolvedor de software Java no Projeto My Big Whale e também atuo como suporte técnico ao usuário na Teralab Serviços de Dados LTDA. Desejo continuar aprimorando minhas habilidades pessoais e profissionais, contribuindo na construção de soluções que agregam valores ao cliente.  Sou uma pessoa tímida mas que gosta muito pessoas, animais, meio ambiente e política. Soluções que são pensados levando em conta a diversidade cultural, inclusão social, sustentabilidade e inovação são as que mais me atraem! 
+Meu nome é Erasmo Bezerra. Sou desenvolvedor de software Java voluntário no Projeto My Big Whale e também atuo como suporte técnico ao usuário na Teralab Serviços de Dados LTDA. Tenho duas graduações: Bacharel em Ciências Sociais - 2018  e recentemente, Tecnólogo em Análise e Desenvolvimento de Software - 2023. Minha primeira formação contribuio no desenvolvimento de uma comunicação efetiva e empática, da análise crítica e compreensão do contexto social, cultural e político da sociedade e do indivíduo para o desenvolvimento de projetos e soluções aos problemas enfrentados pelos mesmos.
+
+Aliado às experiências profissionaos como Pesquisa e Suporte ao Usuário, essa combinação única de conhecimento e vivência me capacita a contribuir de maneira significativa no desenvolvimento de soluções de software centradas no usuário, éticas e culturalmente sensíveis, destacando-me como um profissional adaptável e apto a enfrentar desafios complexos no campo da tecnologia da informação. Desejo continuar aprimorando minhas habilidades pessoais e profissionais, contribuindo na construção de soluções que agregam valores ao cliente.
+<br><br>
+
+
+## 📋 Experiências em Projetos:
+
+### My Big Whale
+
+* Desenvolver novos componentes para aplicação utilizando Java 17 e Spring Boot.
+* Realizar manutenção nos componentes já existentes
+* Integrar sistemas e componentes para garantir a interoperabilidade.
+* Realizar testes unitários com JUnit e de Integração com Spring MockMVC
+* Metodologia Ágil: utilização do Kanban para planejar e acompanhar as tarefas. 
+* Versionamento e controle de código: Git e Github
 
 <br><br>
 
-## 💻  Fornação:
-Tenho duas graduação: Bacharelado em Ciências Sociais e recentemente, Tecnólogo em Análise e Desenvolvimento de Software. Minha educação em Ciências Sociais contribuio no desenvolvimento da minha comunicação, análise crítica e importãncia de se compreender o contexto social, cultural e político da sociedade e do indivíduo para o desenvolvimento de projetos e soluções aos problemas enfrentados pelos mesmos. Essa combinação única de conhecimentos me capacita a contribuir de maneira significativa no desenvolvimento de soluções de software centradas no usuário, éticas e culturalmente sensíveis, destacando-me como um profissional adaptável e apto a enfrentar desafios complexos no campo da tecnologia da informação.
-
-<br><br>
-
-## Experiência em Projetos:  
-Minha experiência aqui (WHALE)
-
-<br><br>
-
-## Status e Linguagens:  
+## 🧑🏽‍💻 Status e Linguagens:  
 
 <div align="center">
   <a href="https://github.com/erasmobezerra">
@@ -39,24 +44,30 @@ Minha experiência aqui (WHALE)
    <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">    
    <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-   <img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
    <img alt="Trello"  src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />        
    <img alt="Prometheus"! src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" />
    <img alt="Granafa"  src= "https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
   <img alt="Docker"  src= "https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" />
   <img alt="Docker"  src= "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Github" src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
  </div>
 
 <br><br>
 
+## SoftSkills
+
+
 
 
 ## 🤓 Meus Hobbies: 
+Sou uma pessoa tímida mas que gosta muito pessoas, animais, meio ambiente e política. Soluções que são pensados levando em conta a diversidade cultural, inclusão social, sustentabilidade e inovação são as que mais me atraem! Entre meus hóbies, estão: 
+
   - 🌍 Viajar
   - 🎸 Tocar violão
   - 📺 Animes e Séries
   - 💡 Projetos voluntários, criando soluções inteligentes e criativas!
-<br>
+    
+<br><br>
   
 
 
