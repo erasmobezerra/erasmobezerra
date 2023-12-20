@@ -14,7 +14,7 @@ Aliado às experiências profissionais como Pesquisa e Suporte ao Usuário, essa
 
 ### My Big Whale
 
-* Atuo coomo desenvolvedor de software backend voluntário utilizando Java 17 e Spring Framework.
+* Atuo como desenvolvedor de software backend voluntário utilizando Java 17 e Spring Framework.
 * Trabalhei diretamente no desenvolvimento do Gerador de QRCode e Conversor de Imagens. 
 * Realizo manutenção nos componentes já existentes e contribuo no desenvolvimento de novos componentes para aplicação.
 * Crio testes unitários com JUnit, Mockito e Spring MockMVC
