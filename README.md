@@ -20,7 +20,7 @@ Aliado às experiências profissionais como Pesquisa e Suporte ao Usuário, essa
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erasmobezerra&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Amandapvln&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
 </div>
-
+<br><br>
 
 ## 📋 Principais Projetos:
 
@@ -35,7 +35,7 @@ Aliado às experiências profissionais como Pesquisa e Suporte ao Usuário, essa
 <br><br>
 
 
-## Tecnologias:
+## ⚙️ Tecnologias:
   
 <div>   
    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
@@ -55,7 +55,7 @@ Aliado às experiências profissionais como Pesquisa e Suporte ao Usuário, essa
 
 <br><br>
 
-## Habilidades Comportamentais 
+## 🫂 Habilidades Comportamentais 
 Baseado no feed back que recebo dos meus colegas e na avaliação pessoal que faço de mim, as habilidades pessoais:
 
 * Responsabilidade nas atividade
@@ -77,8 +77,8 @@ Sou uma pessoa tímida mas que gosta muito pessoas, animais, meio ambiente e pol
   
 
 
-## Contatos: 
-  📨 Se você está buscando um Desenvolvedor Web apaixonado por tecnologia, vamos nos conectar! Estou aberto a oportunidades, colaborações e troca de ideias enriquecedoras.
+## 📨 Contatos: 
+   Se você está buscando um Desenvolvedor Web apaixonado por tecnologia, vamos nos conectar! Estou aberto a oportunidades, colaborações e troca de ideias enriquecedoras.
 <br><br>
 
 <div> 
