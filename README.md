@@ -10,15 +10,15 @@ Aliado às experiências profissionais como Pesquisa e Suporte ao Usuário, essa
 <br><br>
 
 
-## 📋 Experiências em Projetos:
+## 📋 Principais Projetos:
 
 ### My Big Whale
 
-* Desenvolver novos componentes para aplicação utilizando Java 17 e Spring Boot.
-* Realizar manutenção nos componentes já existentes
-* Integrar sistemas e componentes para garantir a interoperabilidade.
-* Realizar testes unitários com JUnit e de Integração com Spring MockMVC
-* Metodologia Ágil: utilização do Kanban para planejar e acompanhar as tarefas. 
+* Atuo coomo desenvolvedor de software backend voluntário utilizando Java 17 e Spring Framework.
+* Trabalhei diretamente no desenvolvimento do Gerador de QRCode e Conversor de Imagens. 
+* Realizo manutenção nos componentes já existentes e contribuo no desenvolvimento de novos componentes para aplicação.
+* Crio testes unitários com JUnit, Mockito e Spring MockMVC
+* Utilização da metodologia ágil Kanban para planejar e acompanhar as tarefas. 
 * Versionamento e controle de código: Git e Github
 
 <br><br>
