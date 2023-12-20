@@ -7,21 +7,7 @@ Meu nome é Erasmo Bezerra. Sou desenvolvedor de software Java voluntário no Pr
 
 Aliado às experiências profissionais como Pesquisa e Suporte ao Usuário, essa combinação única de conhecimento e vivência me capacita a contribuir de maneira significativa no desenvolvimento de soluções de software centradas no usuário, éticas e culturalmente sensíveis, destacando-me como um profissional adaptável e apto a enfrentar desafios complexos no campo da tecnologia da informação. Desejo continuar aprimorando minhas habilidades pessoais e profissionais, contribuindo na construção de soluções que agregam valores ao cliente.
 
-<br><br>
-
-
-## 📋 Principais Projetos:
-
-### My Big Whale
-
-* Atuo como desenvolvedor de software backend voluntário utilizando Java 17 e Spring Framework.
-* Trabalhei diretamente no desenvolvimento do Gerador de QRCode e Conversor de Imagens. 
-* Realizo manutenção nos componentes já existentes e contribuo no desenvolvimento de novos componentes para aplicação.
-* Crio testes unitários com JUnit, Mockito e Spring MockMVC
-* Utilização da metodologia ágil Kanban para planejar e acompanhar as tarefas. 
-* Versionamento e controle de código: Git e Github
-
-<br><br>
+<br>
 
 ## 🧑🏽‍💻 Status e Linguagens:  
 
@@ -34,6 +20,20 @@ Aliado às experiências profissionais como Pesquisa e Suporte ao Usuário, essa
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erasmobezerra&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Amandapvln&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
 </div>
+
+
+## 📋 Principais Projetos:
+
+### My Big Whale
+
+* Atuo como desenvolvedor de software backend voluntário utilizando Java 17 e Spring Framework.
+* Trabalhei diretamente no desenvolvimento do Gerador de QRCode e Conversor de Imagens. 
+* Realizo manutenção nos componentes já existentes e contribuo no desenvolvimento de novos componentes para aplicação.
+* Crio testes unitários com JUnit, Mockito e Spring MockMVC
+* Utilização da metodologia ágil Kanban para planejar e acompanhar as tarefas. 
+* Versionamento e controle de código: Git e Github
+<br><br>
+
 
 ## Tecnologias:
   
@@ -55,10 +55,15 @@ Aliado às experiências profissionais como Pesquisa e Suporte ao Usuário, essa
 
 <br><br>
 
-## SoftSkills
+## Habilidades Comportamentais 
+Baseado no feed back que recebo dos meus colegas e na avaliação pessoal que faço de mim, as habilidades pessoais:
 
-
-
+* Responsabilidade nas atividade
+* Empatia no trabalho em equipe
+* Proatividade e Aprendizado contínuo
+* Colaboração e Disposição para ensinar
+* Resolução de Problemas
+<br><br>
 
 ## 🤓 Meus Hobbies: 
 Sou uma pessoa tímida mas que gosta muito pessoas, animais, meio ambiente e política. Soluções que são pensados levando em conta a diversidade cultural, inclusão social, sustentabilidade e inovação são as que mais me atraem! Entre meus hóbies, estão: 
