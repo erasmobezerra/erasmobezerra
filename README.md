@@ -3,7 +3,7 @@
 # Olá, tudo bem!!? 👋
 
 ## 🚀 Quem sou:
-Meu nome é Erasmo Bezerra. Sou desenvolvedor de software Java voluntário no Projeto My Big Whale e também atuo como suporte técnico ao usuário na Teralab Serviços de Dados LTDA. Tenho duas graduações: Bacharel em Ciências Sociais - 2018 e recentemente, Tecnólogo em Análise e Desenvolvimento de Software - 2023. Minha primeira formação me ajudou no desenvolvimento de uma comunicação efetiva e empática, da análise crítica e compreensão do contexto social, cultural e político da sociedade e do indivíduo para o desenvolvimento de projetos e soluções aos problemas enfrentados pelos mesmos.
+Meu nome é Erasmo Bezerra. Meu objetivo é me tornar um desenvolvedor .NET!  Fui voluntário no projeto open source My Big Whale e também atuo como suporte técnico ao usuário na Teralab Serviços de Dados LTDA desde agosto de 2022. Tenho duas graduações: Bacharel em Ciências Sociais - 2018 e recentemente, Tecnólogo em Análise e Desenvolvimento de Software - 2023. Minha primeira formação me ajudou no desenvolvimento de uma comunicação efetiva e empática, da análise crítica e compreensão do contexto social, cultural e político da sociedade e do indivíduo para o desenvolvimento de projetos e soluções aos problemas enfrentados pelos mesmos.
 
 Aliado às experiências profissionais como Pesquisa e Suporte ao Usuário, essa combinação única de conhecimento e vivência me capacita a contribuir de maneira significativa no desenvolvimento de soluções de software centradas no usuário, éticas e culturalmente sensíveis, destacando-me como um profissional adaptável e apto a enfrentar desafios complexos no campo da tecnologia da informação. Desejo continuar aprimorando minhas habilidades pessoais e profissionais, contribuindo na construção de soluções que agregam valores ao cliente.
 
@@ -26,7 +26,7 @@ Aliado às experiências profissionais como Pesquisa e Suporte ao Usuário, essa
 
 ### My Big Whale
 
-* Atuo como desenvolvedor de software backend voluntário utilizando Java 17 e Spring Framework.
+* Atuei como desenvolvedor de software backend voluntário utilizando Java 17 e Spring Framework.
 * Trabalhei diretamente no desenvolvimento do Gerador de QRCode e Conversor de Imagens. 
 * Realizo manutenção nos componentes já existentes e contribuo no desenvolvimento de novos componentes para aplicação.
 * Crio testes unitários com JUnit, Mockito e Spring MockMVC
