@@ -3,9 +3,22 @@
 # Olá, tudo bem!!? 👋
 
 ## 🚀 Quem sou:
-Meu nome é Erasmo Bezerra. Meu objetivo é me tornar um desenvolvedor .NET!  Fui voluntário no projeto open source My Big Whale e também atuo como suporte técnico ao usuário na Teralab Serviços de Dados LTDA desde agosto de 2022. Tenho duas graduações: Bacharel em Ciências Sociais - 2018 e recentemente, Tecnólogo em Análise e Desenvolvimento de Software - 2023. Minha primeira formação me ajudou no desenvolvimento de uma comunicação efetiva e empática, da análise crítica e compreensão do contexto social, cultural e político da sociedade e do indivíduo para o desenvolvimento de projetos e soluções aos problemas enfrentados pelos mesmos.
+Hello Word, tudo bem? 
 
-Aliado às experiências profissionais como Pesquisa e Suporte ao Usuário, essa combinação única de conhecimento e vivência me capacita a contribuir de maneira significativa no desenvolvimento de soluções de software centradas no usuário, éticas e culturalmente sensíveis, destacando-me como um profissional adaptável e apto a enfrentar desafios complexos no campo da tecnologia da informação. Desejo continuar aprimorando minhas habilidades pessoais e profissionais, contribuindo na construção de soluções que agregam valores ao cliente.
+Me chamo Erasmo e sou apaixonado por tecnologias que impactam positivamente a vida das pessoas!
+Meu objetivo é conquistar uma oportunidade como Desenvolvedor .NET, com foco no desenvolvimento de aplicações web.
+
+Migrei da área de Ciências Sociais para a Tecnologia da Informação motivado pelas oportunidades que essa mudança proporcionaria e pelo desejo de aprender a desenvolver softwares. Iniciei minha trajetória como autônomo, realizando manutenção de computadores, e posteriormente consegui uma vaga como Analista de Suporte Computacional.
+
+Minha primeira oportunidade como programador veio com o projeto voluntário e open source My Big Whale, onde atuei por nove meses como desenvolvedor Backend Java. Essa experiência foi essencial para meu crescimento técnico, desenvolvendo e aprimorando funcionalidades do projeto, além de contribuir significativamente para o desenvolvimento das minhas soft skills ao trabalhar em equipe utilizando metodologias ágeis.
+
+No início de 2024, decidi migrar da linguagem Java para o C# após identificar o crescimento da demanda por essa tecnologia na minha região. Atualmente, estou cursando uma Pós-graduação em Desenvolvimento Full Stack e Cloud Computing, além de participar de cursos online para aprofundar meus conhecimentos nos fundamentos de C#. Essa linguagem, que possui muitas semelhanças com Java, também se destaca por sua comunidade ativa e vasta aplicabilidade. 
+
+Sou uma pessoa organizada, dedicada e prática, com facilidade para resolver problemas e colaborar em equipe. Valorizo um ambiente de trabalho positivo e produtivo, onde compartilhar conhecimentos e aprender com os colegas seja parte da rotina.
+
+Nos momentos de lazer, gosto de assistir animes e séries, tocar violão e viajar para conhecer novos lugares e culturas.
+
+Se você procura um profissional comprometido e entusiasmado com tecnologia para integrar sua equipe, vamos nos conectar!
 
 <br>
 
@@ -22,15 +35,14 @@ Aliado às experiências profissionais como Pesquisa e Suporte ao Usuário, essa
 </div>
 <br><br>
 
-## 📋 Principais Projetos:
+## 📋 Principal Projeto:
 
 ### My Big Whale
 
 * Atuei como desenvolvedor de software backend voluntário utilizando Java 17 e Spring Framework.
-* Trabalhei diretamente no desenvolvimento do Gerador de QRCode e Conversor de Imagens. 
-* Realizo manutenção nos componentes já existentes e contribuo no desenvolvimento de novos componentes para aplicação.
-* Crio testes unitários com JUnit, Mockito e Spring MockMVC
-* Utilização da metodologia ágil Kanban para planejar e acompanhar as tarefas. 
+* Densenvolvi o Gerador de QRCode e Conversor de Imagens. 
+* Criação de testes unitários com JUnit, Mockito e Spring MockMVC
+* Kanban para planejar e acompanhar as tarefas. 
 * Versionamento e controle de código: Git e Github
 <br><br>
 
