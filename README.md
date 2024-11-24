@@ -14,10 +14,6 @@ Minha primeira oportunidade como programador veio com o projeto voluntário e op
 
 No início de 2024, decidi migrar da linguagem Java para o C# após identificar o crescimento da demanda por essa tecnologia na minha região. Atualmente, estou cursando uma Pós-graduação em Desenvolvimento Full Stack e Cloud Computing, além de participar de cursos online para aprofundar meus conhecimentos nos fundamentos de C#. Essa linguagem, que possui muitas semelhanças com Java, também se destaca por sua comunidade ativa e vasta aplicabilidade. 
 
-Sou uma pessoa organizada, dedicada e prática, com facilidade para resolver problemas e colaborar em equipe. Valorizo um ambiente de trabalho positivo e produtivo, onde compartilhar conhecimentos e aprender com os colegas seja parte da rotina.
-
-Nos momentos de lazer, gosto de assistir animes e séries, tocar violão e viajar para conhecer novos lugares e culturas.
-
 Se você procura um profissional comprometido e entusiasmado com tecnologia para integrar sua equipe, vamos nos conectar!
 
 <br>
