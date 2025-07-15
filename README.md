@@ -12,7 +12,7 @@ Se você procura um profissional comprometido e entusiasmado com tecnologia para
 <br>
 
 ## ⚙️ Tecnologias:
-  
+
 <div>      
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
   <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=for-the-badge" />  
@@ -26,10 +26,6 @@ Se você procura um profissional comprometido e entusiasmado com tecnologia para
   <img alt="Github" src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
  </div>
 
-<br><br>
-
-## 🧑🏽‍💻 Status e Linguagens:  
-
 <div align="center">
   <a href="https://github.com/erasmobezerra">
    
@@ -39,7 +35,15 @@ Se você procura um profissional comprometido e entusiasmado com tecnologia para
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erasmobezerra&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=erasmobezerra&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
 </div>
-<br><br>
+
+## 📨 Contatos: 
+<div> 
+<a href = "mailto:hyerasmo.ads.tech@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/erasmobezerra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://discord.gg/8vJgvx3A" target="83Rfl#3843"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+</div>
+
+<br>
 
 ## 📋 Principal Projeto:
 
@@ -50,7 +54,7 @@ Se você procura um profissional comprometido e entusiasmado com tecnologia para
 * Criação de testes unitários com JUnit, Mockito e Spring MockMVC
 * Kanban para planejar e acompanhar as tarefas. 
 * Versionamento e controle de código: Git e Github
-<br><br>
+<br>
 
 ## 🫂 Habilidades Comportamentais 
 Baseado no feed back que recebo dos meus colegas e na avaliação pessoal que faço de mim, as habilidades pessoais:
@@ -60,7 +64,7 @@ Baseado no feed back que recebo dos meus colegas e na avaliação pessoal que fa
 * Proatividade e Aprendizado contínuo
 * Colaboração e Disposição para ensinar
 * Resolução de Problemas
-<br><br>
+<br>
 
 ## 🤓 Meus Hobbies: 
 Sou uma pessoa tímida mas que gosta muito pessoas, animais, meio ambiente e política. Soluções que são pensados levando em conta a diversidade cultural, inclusão social, sustentabilidade e inovação são as que mais me atraem! Entre meus hóbies, estão: 
@@ -70,17 +74,6 @@ Sou uma pessoa tímida mas que gosta muito pessoas, animais, meio ambiente e pol
   - 📺 Animes e Séries
   - 💡 Projetos voluntários, criando soluções inteligentes e criativas!
     
-<br><br>
-  
+<br>
 
-
-## 📨 Contatos: 
-   Se você está buscando um Desenvolvedor Web apaixonado por tecnologia, vamos nos conectar! Estou aberto a oportunidades, colaborações e troca de ideias enriquecedoras.
-<br><br>
-
-<div> 
-<a href = "mailto:hyerasmo.ads.tech@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/erasmobezerra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://discord.gg/8vJgvx3A" target="83Rfl#3843"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-</div>
 
