@@ -7,16 +7,26 @@ Hello Word, tudo bem?
 
 Me chamo Erasmo e sou apaixonado por tecnologias que impactam positivamente a vida das pessoas!
 Meu objetivo é conquistar uma oportunidade como Desenvolvedor .NET, com foco no desenvolvimento de aplicações web.
-
-Migrei da área de Ciências Sociais para a Tecnologia da Informação motivado pelas oportunidades que essa mudança proporcionaria e pelo desejo de aprender a desenvolver softwares. Iniciei minha trajetória como autônomo, realizando manutenção de computadores, e posteriormente consegui uma vaga como Analista de Suporte Computacional.
-
-Minha primeira oportunidade como programador veio com o projeto voluntário e open source My Big Whale, onde atuei por nove meses como desenvolvedor Backend Java. Essa experiência foi essencial para meu crescimento técnico, desenvolvendo e aprimorando funcionalidades do projeto, além de contribuir significativamente para o desenvolvimento das minhas soft skills ao trabalhar em equipe utilizando metodologias ágeis.
-
-No início de 2024, decidi migrar da linguagem Java para o C# após identificar o crescimento da demanda por essa tecnologia na minha região. Atualmente, estou cursando uma Pós-graduação em Desenvolvimento Full Stack e Cloud Computing, além de participar de cursos online para aprofundar meus conhecimentos nos fundamentos de C#. Essa linguagem, que possui muitas semelhanças com Java, também se destaca por sua comunidade ativa e vasta aplicabilidade. 
-
 Se você procura um profissional comprometido e entusiasmado com tecnologia para integrar sua equipe, vamos nos conectar!
 
 <br>
+
+## ⚙️ Tecnologias:
+  
+<div>      
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=for-the-badge" />  
+   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+   <img alt="SpringBoot" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>       
+   <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+   <img alt="Trello"  src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />          
+  <img alt="Docker"  src= "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Github" src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+ </div>
+
+<br><br>
 
 ## 🧑🏽‍💻 Status e Linguagens:  
 
@@ -40,24 +50,6 @@ Se você procura um profissional comprometido e entusiasmado com tecnologia para
 * Criação de testes unitários com JUnit, Mockito e Spring MockMVC
 * Kanban para planejar e acompanhar as tarefas. 
 * Versionamento e controle de código: Git e Github
-<br><br>
-
-
-## ⚙️ Tecnologias:
-  
-<div>      
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=for-the-badge" />  
-   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-   <img alt="SpringBoot" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>       
-   <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-   <img alt="Trello"  src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />          
-  <img alt="Docker"  src= "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="Github" src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
- </div>
-
 <br><br>
 
 ## 🫂 Habilidades Comportamentais 
@@ -88,7 +80,7 @@ Sou uma pessoa tímida mas que gosta muito pessoas, animais, meio ambiente e pol
 
 <div> 
 <a href = "mailto:hyerasmo.ads.tech@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/erasmo-bezerra-6751121b1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/erasmobezerra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/8vJgvx3A" target="83Rfl#3843"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 
