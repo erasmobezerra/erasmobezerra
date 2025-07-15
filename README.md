@@ -5,8 +5,9 @@
 ## 🚀 Quem sou:
 Hello Word, tudo bem? 
 
-Me chamo Erasmo e sou apaixonado por tecnologias que impactam positivamente a vida das pessoas!
-Meu objetivo é conquistar uma oportunidade como Desenvolvedor .NET, com foco no desenvolvimento de aplicações web.
+Me chamo Erasmo e sou apaixonado por tecnologias que impactam positivamente a vida das pessoas! <br>
+Atualmente estou cursando Pós-Graduação Desenvolvimento Fullstack e Cloud Computing. <br>
+Meu objetivo é conquistar uma oportunidade como Desenvolvedor .NET, com foco no desenvolvimento de aplicações web. <br>
 Se você procura um profissional comprometido e entusiasmado com tecnologia para integrar sua equipe, vamos nos conectar!
 
 <br>
