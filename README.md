@@ -1,16 +1,14 @@
 
 
-# Olá, tudo bem!!? 👋
+# Olá, eu sou Erasmo👋
 
-## 🚀 Quem sou:
-Hello Word, tudo bem? 
+## 🚀 Sobre Mim:
+⭐ Me chamo Erasmo e sou apaixonado por tecnologias que impactam positivamente a vida das pessoas! <br>
+🚀 Atualmente estou cursando Pós-Graduação Desenvolvimento Fullstack e Cloud Computing. <br>
+🎯 Meu objetivo é conquistar uma oportunidade como Desenvolvedor .NET, com foco no desenvolvimento de aplicações web. <br>
+🤝 Se você procura um profissional comprometido e entusiasmado com tecnologia para integrar sua equipe, vamos nos conectar! <br>
 
-Me chamo Erasmo e sou apaixonado por tecnologias que impactam positivamente a vida das pessoas! <br>
-Atualmente estou cursando Pós-Graduação Desenvolvimento Fullstack e Cloud Computing. <br>
-Meu objetivo é conquistar uma oportunidade como Desenvolvedor .NET, com foco no desenvolvimento de aplicações web. <br>
-Se você procura um profissional comprometido e entusiasmado com tecnologia para integrar sua equipe, vamos nos conectar!
 
-<br>
 
 ## ⚙️ Tecnologias:
 
