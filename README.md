@@ -1,17 +1,23 @@
 
 
-# Olá, eu sou Erasmo👋
+# 👋 Olá, eu sou Erasmo!
 
-## 🚀 Sobre Mim:
-⭐ Me chamo Erasmo e sou apaixonado por tecnologias que impactam positivamente a vida das pessoas! <br>
-🚀 Atualmente estou cursando Pós-Graduação Desenvolvimento Fullstack e Cloud Computing. <br>
-🎯 Meu objetivo é conquistar uma oportunidade como Desenvolvedor .NET, com foco no desenvolvimento de aplicações web. <br>
-🤝 Se você procura um profissional comprometido e entusiasmado com tecnologia para integrar sua equipe, vamos nos conectar! <br>
+Meu objetivo é ser Desenvolvedor Full Stack .NET e impactar positivamente as pessoas com soluções inovadoras. Estou em constante aprendizado e atento as novas tecnologias que as empresas estão solicitando no mercado. Atuei em 2024/2024 como Desenvolvedor Back End Java no projeto voluntário My Big Whale. Mas ano passado optei por focar totalmente em C#, DotNet e Angular! Recentemente, conquistei minha primeira certificação pela freeCodeCamp: "Foundational C# with Microsoft", onde aprendi os fundamentos de C# e pretendo avançar continuamente para dominar o .NET e o Angular! Sou um profissional resiliente, colaborativo e proativo na busca por aprendizado contínuo. Se você busca um desenvolvedor resiliente, colaborativo, proativo que ama tecnologias que agreguem valor as pessoas, vamos nos conectar!
 
+---
 
+## Sobre Mim:
+- 🖥️ Tecnólogo em Análise e Desenvolvimento de Sistemas (FMU - 2023) <br>
+- 🎓 Pós-Graduando em Desenvolvimento Fullstack e Cloud Computing (2025). <br>
+- 🎯 Meu objetivo é conquistar uma oportunidade como Desenvolvedor Full Stack .NET <br>
+- 🚀 Certificação pela freeCodeCamp: "Foundational C# with Microsoft"<br>
+- ⭐ Apaixonado por tecnologias que impactam positivamente a vida das pessoas! <br>
+- 🤝 Respeito empresas que valorizem a diversidade, causas sociais, sustentabilidade e inovação! <br>
+
+###
+---
 
 ## ⚙️ Tecnologias:
-
 <div>      
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
   <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=for-the-badge" />  
@@ -25,6 +31,8 @@
   <img alt="Github" src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
  </div>
 
+<br>
+
 <div align="center">
   <a href="https://github.com/erasmobezerra">
    
@@ -35,6 +43,9 @@
 | :-: | :-: |
 </div>
 
+###
+---
+
 ## 📨 Contatos: 
 <div> 
 <a href = "mailto:hyerasmo.ads.tech@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -42,7 +53,8 @@
 <a href="https://discord.gg/8vJgvx3A" target="83Rfl#3843"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 
-<br>
+###
+---
 
 ## 📋 Principal Projeto:
 
@@ -55,24 +67,13 @@
 * Versionamento e controle de código: Git e Github
 <br>
 
-## 🫂 Habilidades Comportamentais 
-Baseado no feed back que recebo dos meus colegas e na avaliação pessoal que faço de mim, as habilidades pessoais:
-
-* Responsabilidade nas atividade
-* Empatia no trabalho em equipe
-* Proatividade e Aprendizado contínuo
-* Colaboração e Disposição para ensinar
-* Resolução de Problemas
-<br>
+###
+---
 
 ## 🤓 Meus Hobbies: 
-Sou uma pessoa tímida mas que gosta muito pessoas, animais, meio ambiente e política. Soluções que são pensados levando em conta a diversidade cultural, inclusão social, sustentabilidade e inovação são as que mais me atraem! Entre meus hóbies, estão: 
-
   - 🌍 Viajar
   - 🎸 Tocar violão
-  - 📺 Animes e Séries
-  - 💡 Projetos voluntários, criando soluções inteligentes e criativas!
-    
+  - 📺 Animes e Séries  
 <br>
 
 
