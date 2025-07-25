@@ -2,15 +2,14 @@
 
 # 👋 Olá, eu sou Erasmo!
 
-Meu objetivo é ser Desenvolvedor Full Stack .NET e impactar positivamente as pessoas com soluções inovadoras. Estou em constante aprendizado e atento as novas tecnologias que as empresas estão solicitando no mercado. Atuei em 2024/2024 como Desenvolvedor Back End Java no projeto voluntário My Big Whale. Mas ano passado optei por focar totalmente em C#, DotNet e Angular! Recentemente, conquistei minha primeira certificação pela freeCodeCamp: "Foundational C# with Microsoft", onde aprendi os fundamentos de C# e pretendo avançar continuamente para dominar o .NET e o Angular! Sou um profissional resiliente, colaborativo e proativo na busca por aprendizado contínuo. Se você busca um desenvolvedor resiliente, colaborativo, proativo que ama tecnologias que agreguem valor as pessoas, vamos nos conectar!
+🎯Sou apaixonado por tecnologia e tenho como objetivo atuar como Desenvolvedor Full Stack .NET, criando soluções inovadoras que impactem positivamente a vida das pessoas. Estou em constante evolução, sempre atento às tecnologias mais requisitadas pelo mercado. Sou um profissional resiliente, colaborativo e proativo na busca por aprendizado contínuo. Se você busca um desenvolvedor resiliente, colaborativo, calmo e proativo, vamos nos conectar!
 
 ---
 
 ## Sobre Mim:
 - 🖥️ Tecnólogo em Análise e Desenvolvimento de Sistemas (FMU - 2023) <br>
 - 🎓 Pós-Graduando em Desenvolvimento Fullstack e Cloud Computing (2025). <br>
-- 🎯 Meu objetivo é conquistar uma oportunidade como Desenvolvedor Full Stack .NET <br>
-- 🚀 Certificação pela freeCodeCamp: "Foundational C# with Microsoft"<br>
+- 🚀 Certificação "Foundational C# with Microsoft" (freeCodeCamp) <br>
 - ⭐ Apaixonado por tecnologias que impactam positivamente a vida das pessoas! <br>
 - 🤝 Respeito empresas que valorizem a diversidade, causas sociais, sustentabilidade e inovação! <br>
 
