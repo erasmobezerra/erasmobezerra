@@ -2,14 +2,13 @@
 
 # 👋 Olá, eu sou Erasmo!
 
-🎯Sou apaixonado por tecnologia e tenho como objetivo atuar como Desenvolvedor Full Stack .NET, criando soluções inovadoras que impactem positivamente a vida das pessoas. Estou em constante evolução, sempre atento às tecnologias mais requisitadas pelo mercado. Sou um profissional resiliente, colaborativo e proativo na busca por aprendizado contínuo. Se você busca um desenvolvedor resiliente, colaborativo, calmo e proativo, vamos nos conectar!
+🎯Sou apaixonado por tecnologia e meu objeto é estagiar como desenvolvedor de software, criando soluções inovadoras que impactem positivamente a vida das pessoas. Estou em constante evolução, atento às tecnologias mais requisitadas pelo mercado. Sou um profissional resiliente, colaborativo e proativo na busca por aprendizado contínuo. Se você busca um desenvolvedor resiliente, colaborativo, calmo e proativo, vamos nos conectar!
 
 ---
 
 ## Sobre Mim:
-- 🖥️ Tecnólogo em Análise e Desenvolvimento de Sistemas (FMU - 2023) <br>
+- 🖥️ Graduando em Sistemas da Informação - 1º Periódo - (UNISALES - 2026) <br>
 - 🎓 Pós-Graduando em Desenvolvimento Fullstack e Cloud Computing (2025). <br>
-- 🚀 Certificação "Foundational C# with Microsoft" (freeCodeCamp) <br>
 - ⭐ Apaixonado por tecnologias que impactam positivamente a vida das pessoas! <br>
 - 🤝 Respeito empresas que valorizem a diversidade, causas sociais, sustentabilidade e inovação! <br>
 
