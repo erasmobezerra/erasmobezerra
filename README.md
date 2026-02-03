@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Erasmo!
 
-🎯Sou apaixonado por tecnologia e meu objeto é estagiar como desenvolvedor de software, criando soluções inovadoras que impactem positivamente a vida das pessoas. Estou em constante evolução, atento às tecnologias mais requisitadas pelo mercado. Sou um profissional resiliente, colaborativo e proativo na busca por aprendizado contínuo. Se você busca um desenvolvedor resiliente, colaborativo, calmo e proativo, vamos nos conectar!
+🎯Sou apaixonado por tecnologia e meu objeto é estagiar como desenvolvedor de software, criando soluções inovadoras que impactem positivamente a vida das pessoas. Estou em constante evolução, atento às tecnologias mais requisitadas pelo mercado. Sou um profissional resiliente, colaborativo e proativo na busca por aprendizado contínuo, vamos nos conectar!
 
 ---
 
