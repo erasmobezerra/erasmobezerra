@@ -1,12 +1,14 @@
 # 👋 Olá, eu sou Erasmo!
 
-🎯Sou apaixonado por tecnologia e meu objetivo é estagiar como desenvolvedor de software, criando soluções inovadoras que impactem positivamente a vida das pessoas. 
+Sou apaixonado por tecnologia e meu objetivo é estagiar como desenvolvedor de software, criando soluções inovadoras que impactem positivamente a vida das pessoas. 
 
 Participei em 2024 de um projeto voluntário (My Big Whale): Atuei no desenvolvimento com Java/Spring para geração de QR Codes e processamento de imagens, garantindo a qualidade do código com testes unitários (JUnit/Mockito) em ambiente ágil, organizado por tasks no Kanban. 
 
 Recentemente decidi migrar estrategicamente meus estudos para o ecossistema C#/.NET pela demanda do mercado local onde moro e similaridade com Java, aprendendo por meio de cursos e bootcamps.
 
 Estou em constante evolução, atento às tecnologias mais requisitadas pelo mercado. Sou um profissional resiliente, colaborativo e proativo na busca por aprendizado contínuo, vamos nos conectar!
+
+
 ---
 
 ## ⚙️ Tecnologias:
