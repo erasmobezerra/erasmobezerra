@@ -1,73 +1,82 @@
-# 👋 Olá, eu sou Erasmo!
+# 👋 Olá, eu sou Erasmo Bezerra!
 
-Sou apaixonado por tecnologia e meu objetivo é estagiar como desenvolvedor de software, criando soluções inovadoras que impactem positivamente a vida das pessoas. 
+**Desenvolvedor de Software | Sistemas de Informação | 📍 Vila Velha, ES**
 
-Participei em 2024 de um projeto voluntário (My Big Whale): Atuei no desenvolvimento com Java/Spring para geração de QR Codes e processamento de imagens, garantindo a qualidade do código com testes unitários (JUnit/Mockito) em ambiente ágil, organizado por tasks no Kanban. 
+Sou um entusiasta da tecnologia focado em construir soluções inovadoras que impactem positivamente a vida das pessoas. Atualmente, curso Sistemas de Informação na Unisales e busco uma oportunidade de estágio em Desenvolvimento de Software.
 
-Recentemente decidi migrar estrategicamente meus estudos para o ecossistema C#/.NET pela demanda do mercado local onde moro e similaridade com Java, aprendendo por meio de cursos e bootcamps.
+Venho me especializando fortemente no ecossistema **C# / .NET** e em **Cloud Computing**, aliando minha base em Java para criar aplicações robustas e escaláveis. Sou movido pelo aprendizado contínuo e pela colaboração em equipe.
 
-Estou em constante evolução, atento às tecnologias mais requisitadas pelo mercado. Sou um profissional resiliente, colaborativo e proativo na busca por aprendizado contínuo, vamos nos conectar!
-
+### 🚀 O que estou fazendo no momento:
+- 💻 Aprofundando conhecimentos no ecossistema **.NET**, **APIs** e **Deploy em nuvem (Azure)**.
+- 🤖 Explorando ferramentas de Inteligência Artificial para otimizar fluxos de desenvolvimento.
+- 🎓 Estudando ativamente por meio de bootcamps, documentações e projetos práticos.
 
 ---
 
-## ⚙️ Tecnologias:
-<div>      
+## ⚙️ Tecnologias e Ferramentas
+
+<div align="left">  
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
   <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=for-the-badge" />  
-   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-   <img alt="SpringBoot" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>       
-   <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-   <img alt="Trello"  src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />          
-  <img alt="Docker"  src= "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="SpringBoot" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />        
+  <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="Github" src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
- </div>
+  <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />          
+</div>
 
 <br>
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/erasmobezerra">
-   
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=erasmobezerra&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=erasmobezerra&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=erasmobezerra&theme=nord_dark) |
-| :-: | :-: | :-: |
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erasmobezerra&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=erasmobezerra&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
-| :-: | :-: |
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=erasmobezerra&theme=nord_dark" width="400px" alt="GitHub Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=erasmobezerra&theme=nord_dark" width="400px" alt="Top Languages" />
+</div>
+<br>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erasmobezerra&theme=nord_dark" width="400px" alt="Profile Details" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erasmobezerra&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff" width="400px" alt="GitHub Streak" />
 </div>
 
-###
 ---
 
-## 📨 Contatos: 
-<div> 
-<a href = "mailto:hyerasmo.ads.tech@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/erasmobezerra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://discord.gg/8vJgvx3A" target="83Rfl#3843"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+## 📋 Principais Projetos
+
+### 🐳 My Big Whale (Projeto Voluntário)
+Atuei como Desenvolvedor Backend neste projeto, focado na geração e processamento de dados em um ambiente ágil.
+* **Tecnologias:** Java 17, Spring Framework.
+* **Minhas contribuições:** Desenvolvimento do gerador de QR Code e do conversor de imagens.
+* **Qualidade de Software:** Implementação de testes unitários robustos utilizando JUnit, Mockito e Spring MockMVC.
+* **Metodologia:** Organização de tarefas via Kanban (Trello) e versionamento de código com Git/GitHub.
+
+---
+
+## 📜 Cursos e Certificações Recentes
+- **2025** | Bootcamp Deal Group - Al Centric .NET *(Foco em APIs e Deploy em Azure)*
+- **2025** | Foundational C# with Microsoft - freeCodeCamp *(Fundamentos avançados da linguagem)*
+
+---
+
+## 🤓 Um pouco mais sobre mim
+
+Além de codar, no meu tempo livre eu gosto de:
+- 🌍 Explorar novos lugares e viajar
+- 🎸 Estudar teoria musical e tocar violão
+- 🐈 Aproveitar o tempo em casa com meus gatos
+- 📺 Acompanhar animes e séries
+
+---
+
+## 📨 Vamos nos conectar!
+
+Estou pronto para contribuir com a sua equipe de desenvolvimento. 
+
+<div align="left"> 
+  <a href="mailto:hyerasmo.ads.tech@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/erasmobezerra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://discord.gg/8vJgvx3A" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a> 
 </div>
-
-###
----
-
-## 📋 Principal Projeto:
-
-### My Big Whale
-
-* Atuei como desenvolvedor de software backend voluntário utilizando Java 17 e Spring Framework.
-* Densenvolvi o Gerador de QRCode e Conversor de Imagens. 
-* Criação de testes unitários com JUnit, Mockito e Spring MockMVC
-* Kanban para planejar e acompanhar as tarefas. 
-* Versionamento e controle de código: Git e Github
-<br>
-
-###
----
-
-## 🤓 Meus Hobbies: 
-  - 🌍 Viajar
-  - 🎸 Tocar violão
-  - 📺 Animes e Séries  
-<br>
-
-
